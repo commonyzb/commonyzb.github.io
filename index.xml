@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Yzb&#39;s Blog on Yzb&#39;s Blog</title>
+        <link>https://example.com/</link>
+        <description>Recent content in Yzb&#39;s Blog on Yzb&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+            <language>zh</language>
+        
+        
+        
+            <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        
+        
+            <lastBuildDate>Sun, 15 Dec 2019 22:12:47 +0800</lastBuildDate>
+        
+        <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>About</title>
+                <link>https://example.com/about/</link>
+                <pubDate>Sun, 15 Dec 2019 22:12:47 +0800</pubDate>
+                
+                <guid>https://example.com/about/</guid>
+                <description>&lt;h1 id=&#34;heading&#34;&gt;关于我&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;信息工程学院计算机科学与技术专业本科生，2020年毕业&lt;/li&gt;
+&lt;li&gt;ACM协会成员&lt;/li&gt;
+&lt;li&gt;目前方向为Java后端开发，热爱编程，自学&lt;/li&gt;
+&lt;li&gt;严格制定计划，不定时更新博客&lt;/li&gt;
+&lt;li&gt;终身学习者&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Posts</title>
+                <link>https://example.com/posts/</link>
+                <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
+                
+                <guid>https://example.com/posts/</guid>
+                <description></description>
+            </item>
+        
+    </channel>
+</rss>

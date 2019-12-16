@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Yzb&#39;s Blog on Yzb&#39;s Blog</title>
-        <link>commonyzb.github.io/</link>
+        <link>https://commonyzb.github.io/</link>
         <description>Recent content in Yzb&#39;s Blog on Yzb&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         
@@ -14,14 +14,14 @@
         
             <lastBuildDate>Sun, 15 Dec 2019 22:12:47 +0800</lastBuildDate>
         
-        <atom:link href="commonyzb.github.io/" rel="self" type="application/rss+xml" />
+        <atom:link href="https://commonyzb.github.io/" rel="self" type="application/rss+xml" />
         
             <item>
                 <title>About</title>
-                <link>commonyzb.github.io/about/</link>
+                <link>https://commonyzb.github.io/about/</link>
                 <pubDate>Sun, 15 Dec 2019 22:12:47 +0800</pubDate>
                 
-                <guid>commonyzb.github.io/about/</guid>
+                <guid>https://commonyzb.github.io/about/</guid>
                 <description>&lt;h1 id=&#34;heading&#34;&gt;关于我&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;信息工程学院计算机科学与技术专业本科生，2020年毕业&lt;/li&gt;
@@ -35,10 +35,10 @@
         
             <item>
                 <title>Posts</title>
-                <link>commonyzb.github.io/posts/</link>
+                <link>https://commonyzb.github.io/posts/</link>
                 <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
                 
-                <guid>commonyzb.github.io/posts/</guid>
+                <guid>https://commonyzb.github.io/posts/</guid>
                 <description></description>
             </item>
         

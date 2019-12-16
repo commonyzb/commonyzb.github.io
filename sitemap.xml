@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
         <url>
-            <loc>commonyzb.github.io/about/</loc>
+            <loc>https://commonyzb.github.io/about/</loc>
             
                 <lastmod>2019-12-15T22:12:47+08:00</lastmod>
             
@@ -15,7 +15,7 @@
         </url>
     
         <url>
-            <loc>commonyzb.github.io/</loc>
+            <loc>https://commonyzb.github.io/</loc>
             
                 <lastmod>2019-12-15T22:12:47+08:00</lastmod>
             
@@ -29,7 +29,7 @@
         </url>
     
         <url>
-            <loc>commonyzb.github.io/categories/</loc>
+            <loc>https://commonyzb.github.io/categories/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -43,7 +43,7 @@
         </url>
     
         <url>
-            <loc>commonyzb.github.io/tags/markdown/</loc>
+            <loc>https://commonyzb.github.io/tags/markdown/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -57,7 +57,7 @@
         </url>
     
         <url>
-            <loc>commonyzb.github.io/categories/markdown/</loc>
+            <loc>https://commonyzb.github.io/categories/markdown/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -71,7 +71,7 @@
         </url>
     
         <url>
-            <loc>commonyzb.github.io/2019/08/basic-markdown-preview/</loc>
+            <loc>https://commonyzb.github.io/2019/08/basic-markdown-preview/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -85,7 +85,7 @@
         </url>
     
         <url>
-            <loc>commonyzb.github.io/posts/</loc>
+            <loc>https://commonyzb.github.io/posts/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -99,7 +99,7 @@
         </url>
     
         <url>
-            <loc>commonyzb.github.io/tags/</loc>
+            <loc>https://commonyzb.github.io/tags/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             

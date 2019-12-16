@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: commonyzb.github.io/sitemap.xml
+Sitemap: https://commonyzb.github.io/sitemap.xml

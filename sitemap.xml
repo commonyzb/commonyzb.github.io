@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
         <url>
-            <loc>https://example.com/about/</loc>
+            <loc>commonyzb.github.io/about/</loc>
             
                 <lastmod>2019-12-15T22:12:47+08:00</lastmod>
             
@@ -15,7 +15,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/</loc>
+            <loc>commonyzb.github.io/</loc>
             
                 <lastmod>2019-12-15T22:12:47+08:00</lastmod>
             
@@ -29,7 +29,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/categories/</loc>
+            <loc>commonyzb.github.io/categories/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -43,7 +43,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/tags/markdown/</loc>
+            <loc>commonyzb.github.io/tags/markdown/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -57,7 +57,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/categories/markdown/</loc>
+            <loc>commonyzb.github.io/categories/markdown/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -71,7 +71,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/2019/08/basic-markdown-preview/</loc>
+            <loc>commonyzb.github.io/2019/08/basic-markdown-preview/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -85,7 +85,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/posts/</loc>
+            <loc>commonyzb.github.io/posts/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -99,7 +99,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/tags/</loc>
+            <loc>commonyzb.github.io/tags/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
